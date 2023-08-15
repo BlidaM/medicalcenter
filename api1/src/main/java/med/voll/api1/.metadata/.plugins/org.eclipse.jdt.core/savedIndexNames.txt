@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\OneOracle\medicalcenter\api1\src\main\java\med\voll\api1\.metadata\.plugins\org.eclipse.jdt.core
